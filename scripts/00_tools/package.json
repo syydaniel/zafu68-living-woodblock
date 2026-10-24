@@ -1,0 +1,15 @@
+{
+  "name": "zafu2",
+  "private": true,
+  "type": "module",
+  "description": "ZAFU promo v2: three.js WebGPU offline renderer",
+  "dependencies": {
+    "@takram/three-atmosphere": "^0.19.1",
+    "@takram/three-geospatial": "^0.9.1",
+    "@three.ez/instanced-mesh": "^0.3.16",
+    "playwright-core": "^1.64.1",
+    "three": "^0.186.1",
+    "three-gpu-pathtracer": "^0.0.27",
+    "three-mesh-bvh": "^0.9.16"
+  }
+}

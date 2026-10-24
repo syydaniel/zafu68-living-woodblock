@@ -1,0 +1,67 @@
+# 系统与编辑器
+.DS_Store
+.Rhistory
+*.swp
+.vscode/
+.idea/
+
+# Python 与 Node
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+node_modules/
+
+# 工程大文件：本仓库只放脚本与文档，不放这些
+*.blend
+*.blend1
+*.blend2
+*.vdb
+*.abc
+*.usd
+*.usdc
+*.exr
+*.hdr
+*.mov
+*.mp4
+*.m4a
+*.wav
+*.flac
+*.aiff
+*.mid
+*.sf2
+*.sf3
+*.sfz
+*.npz
+*.npy
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.bin
+*.zip
+*.drp
+
+# 渲染输出、缓存和日志（只忽略仓库根目录下的同名文件夹）
+/frames/
+/renders/
+/cache/
+/work/
+*.log
+
+# 本片的大文件与私有素材
+*.mxf
+*.drp
+*.drt
+*.npz
+*.npy
+*.pt
+*.safetensors
+*.onnx
+/refs/
+/out/
+/renders/
+/frames/

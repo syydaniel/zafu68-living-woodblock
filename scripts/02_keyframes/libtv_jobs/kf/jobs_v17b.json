@@ -1,0 +1,14 @@
+[
+ {
+  "id": "K_S2_last",
+  "refs": [
+   "libtv_jobs/kf/out/K_S1_last.png",
+   "libtv_jobs/kf/src/ref_1403_finished_building.png"
+  ],
+  "labels": [
+   "THE IMAGE TO EDIT: a woodblock print of a building wrapped in bamboo scaffolding. Keep this exact image: same framing, same building position, outline, corner, roof line, window grid and paper texture.",
+   "REAL photograph of a finished building of the same campus and era: use it only for how finished walls and windows look."
+  ],
+  "prompt": "Edit Image 1 only: remove all the bamboo scaffolding poles and ties, so the same building now stands FINISHED with plain brick walls and glazed windows (as in Image 2) behind where the poles were; tidy the ground in front and add two or three small newly planted young trees at the bottom. Everything else in Image 1 must stay pixel-exact: the framing, the building's position, outline, corner, height and roof line, the sky, the paper and the ink style. Pine-soot ink only, Jiangnan water-printed woodblock print look."
+ }
+]

@@ -1,0 +1,158 @@
+[
+ {
+  "id": "K_library_multiview",
+  "aspect": "16:9",
+  "refs": [
+   "work/v16k/real/orbit1.png",
+   "work/v16k/real/orbit744.png",
+   "work/v16k/real/dive1199.png",
+   "work/v16k/real/orbit3345.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "real aerial photo: the ring-shaped library seen from the front three-quarter, across the lake.",
+   "real aerial photo: the same library from close above its open courtyard side.",
+   "real aerial photo: the same library seen straight from above.",
+   "real aerial photo: the same library seen from behind, the lake beyond it.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "prompt": "Make one model sheet of this ONE ring-shaped library building, drawn as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Four panels in a 2 x 2 grid on one sheet of paper, separated by plain paper gutters: top left: front three-quarter view from the lake side (as Image 1); top right: side view toward the open courtyard (as Image 2); bottom left: straight top-down view (as Image 3); bottom right: back view (as Image 4). Every panel shows exactly the same building: a C-shaped ring of white floors around a round courtyard, the big curved white roof slab with its skylight rows, the broad stepped plaza on the open side; keep the real proportions, number of floors and window rhythm from the photographs. Only the building and a little ground and trees around it in each panel, no other buildings. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai3_trunk_first",
+  "refs": [
+   "work/v16k/lay/grass43/woodblock.png",
+   "work/v16k/real/grass43.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. A low camera at grass level: the bases of two big tree trunks rising out of fine lawn, the trunks carved in warm ochre and ink with bark lines, the grass as fine carved strokes in mineral green and gold. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai3_canopy_last",
+  "refs": [
+   "work/v16k/lay/ginkgo_backlit/woodblock.png",
+   "work/v16k/real/ginkgo_backlit.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Looking up into a backlit tree canopy against the low sun: replace the ginkgo leaves with palmate MAPLE leaves (槭树, five-lobed) and hang many clusters of paired winged maple samaras (翅果, two wings joined at the seed) from the twigs, glowing translucent gold and ochre against the light; the sun itself as a soft disc of bare paper. Keep the branch structure and leaf masses where they are in Image 1. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai6_path_first",
+  "refs": [
+   "work/v16k/lay/push1/woodblock.png",
+   "work/v16k/real/push1.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. A quiet tree-lined campus road under big broadleaf trees, low camera on the road, sun spots on the asphalt drawn as printed light patches, backlight through the leaves. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai6_path_last",
+  "refs": [
+   "work/v16k/lay/push120/woodblock.png",
+   "work/v16k/real/push120.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. The same tree-lined campus road further along, low camera on the road, sun glowing through the trees at the end, light patches on the road. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai9_luming_autumn_last",
+  "refs": [
+   "work/v16k/lay/island_autumn/woodblock.png",
+   "work/v16k/real/island_autumn.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Straight top-down view of the lake with the small round wooded island and its zigzag footbridge, the lakeside road on the left; autumn: golden ginkgo along the road, red and orange maples, the lake as flat mineral blue-green with fine carved ripples. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai7_campus_mountains_last",
+  "refs": [
+   "work/v16k/lay/avenue_aerial/woodblock.png",
+   "work/v16k/real/avenue_aerial.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Aerial view along the long golden ginkgo avenue in autumn, the campus buildings and the mountains beyond; the ginkgo crowns as carved golden clumps. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai10_campus_aerial_first",
+  "refs": [
+   "work/v16k/lay/campus1/woodblock.png",
+   "work/v16k/real/campus1.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Aerial view over the campus buildings toward the green mountains, a wide band of paper sky above the ridge. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ }
+]

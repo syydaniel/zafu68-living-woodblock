@@ -1,0 +1,82 @@
+[
+ {
+  "id": "K_S1_first",
+  "refs": [
+   "libtv_jobs/kf/src/s1_gate_tianmu.png",
+   "libtv_jobs/refs/T1_tianmu_ink_1280x720.png"
+  ],
+  "keep_text": true,
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. Remove the minibus on the left and the small car behind it, and fill that area with the plain gravel ground, trees and building base exactly as they continue in the photo. Keep the vertical sign on the stone pillar with its existing characters exactly as photographed. Print in pine-soot ink only (black and greys on the paper colour), no other colour."
+ },
+ {
+  "id": "K_S1_last",
+  "refs": [
+   "libtv_jobs/kf/src/s2_linhua_scaffold.png",
+   "libtv_jobs/refs/T1_tianmu_ink_1280x720.png"
+  ],
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. This is a building under construction wrapped in bamboo scaffolding. Keep every scaffolding pole, the walls and the roof exactly. Remove the tiny person at the lower left if any. Print in pine-soot ink only, no colour."
+ },
+ {
+  "id": "K_S2_last",
+  "refs": [
+   "libtv_jobs/kf/src/s2_linhua_scaffold.png",
+   "libtv_jobs/kf/src/ref_1403_finished_building.png",
+   "libtv_jobs/refs/T1_tianmu_ink_1280x720.png"
+  ],
+  "labels": [
+   "REAL photograph of the building under construction in bamboo scaffolding: the camera, composition, building outline, height, corner and roof must stay exactly as here.",
+   "REAL photograph of a finished teaching building of the same campus and era: use it only for what the finished walls and windows look like.",
+   "style reference only (paper, carving, ink)."
+  ],
+  "prompt": "Make one image: the SAME view as Image 1, same camera and composition, but the building is now FINISHED: all bamboo scaffolding removed, brick walls and windows complete like Image 2, the roof finished, a few young trees newly planted in front, the ground tidied. Keep the building's outline, height, corner and roof exactly as in Image 1. A faithful Jiangnan water-printed woodblock print on warm xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks, printed in pine-soot ink only."
+ },
+ {
+  "id": "K_S3_last",
+  "refs": [
+   "libtv_jobs/kf/src/s3_gate_80s.png",
+   "libtv_jobs/refs/T1_tianmu_ink_1280x720.png"
+  ],
+  "keep_text": true,
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. Keep the vertical sign board and any characters on the gate exactly as photographed. Print in pine-soot ink plus ONE ochre (赭石) colour block for the walls, earth and tree trunk; leaves in ink."
+ },
+ {
+  "id": "K_S4_last",
+  "refs": [
+   "libtv_jobs/kf/src/s4_gate_iron.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "keep_text": true,
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. Keep the vertical sign boards and the banner with their existing characters exactly as photographed (the banner is cut off at the top edge, keep it so). No people. Print in pine-soot ink, ochre and mineral green (石绿) colour blocks; the banner in a muted cinnabar red."
+ },
+ {
+  "id": "K_S5_last",
+  "refs": [
+   "libtv_jobs/kf/src/s5_gate_yijin_today.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "keep_text": true,
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. Remove the motorbike, the bicycle, the red barrier and the small blue sign board on the ground, and fill with the paved ground exactly as it continues. Keep the gate and any characters on it exactly as photographed. Print in ink, ochre, mineral green and mineral blue (石青) with soft warm golden side light from the upper left; the two great plane trees stay exactly as photographed."
+ },
+ {
+  "id": "K_S6_last",
+  "refs": [
+   "libtv_jobs/kf/src/s6_lib2004.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "prompt": "Make one image: a faithful Jiangnan water-printed woodblock re-print (江南水印木刻) of Image 1, on warm off-white xuan paper with visible fibres, carved outlines and faint wood grain, flat colour blocks with slight misregistration between blocks. Image 1 is a REAL historical photograph: keep EXACTLY its composition, camera, horizon, every building, pillar, gate, window, roof line and tree in the same place and proportion. Do not add, move or redesign anything. Image 2 is a style reference only (paper, carving and ink texture); do not copy its content. This is the newly finished library in 2004: the banks are still bare brown earth with almost no trees, keep them bare. Keep the reflection in the lake exactly. Print in ink, ochre, mineral green and mineral blue, soft side light from the upper left."
+ },
+ {
+  "id": "K_S7_last",
+  "refs": [
+   "libtv_jobs/kf/src/s6_lib2004.png",
+   "libtv_jobs/kf/src/ref_lib_today_reflect.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "labels": [
+   "REAL photograph of the library in 2004 with bare banks: the camera, composition, the library and its reflection must stay exactly as here.",
+   "REAL photograph of the same library TODAY: use it only to know how the lawns and mature trees around it look now.",
+   "style reference only (paper, carving, colour)."
+  ],
+  "prompt": "Make one image: the SAME view as Image 1, same camera, same library and the same reflection in the lake, but TODAY, about twenty years later: the bare earth banks are now covered with lawns and mature trees (tall metasequoias turning golden, maples, willows by the water) as in Image 2; the trees also appear in the reflection. The library itself is unchanged. A faithful Jiangnan water-printed woodblock print on warm xuan paper with visible fibres, carved outlines, flat colour blocks, full colour (ink, ochre, mineral green, mineral blue, ginkgo gold) with warm golden side light from the upper left."
+ }
+]

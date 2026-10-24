@@ -1,0 +1,172 @@
+[
+ {
+  "id": "K_build_drawing",
+  "aspect": "16:9",
+  "refs": [
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "work/v16k/K_library_multiview.png"
+  ],
+  "labels": [
+   "the finished woodblock print of the campus; it fixes the exact composition, every building outline, the ridges and the shoreline.",
+   "the model sheet of the ring-shaped library (structure reference)."
+  ],
+  "prompt": "Make one image: the SAME view as Image 1, as an architect's construction drawing (施工图) printed in pine-soot ink on warm xuan paper, before anything is built. Registration is the priority: every building outline, the ring library, the ridges and the lake shoreline stay exactly where they are in Image 1; do not crop, zoom or re-compose. All buildings are fine ink line drawings only: floor lines, column grid, the curved roof slab of the ring library as construction lines, a few thin scaffolding and crane-free guide lines; no colour, no fill. The mountains and far ranges are faint grey ink washes with carved ridge lines; the lake is an empty outline with a few horizontal hatching strokes; trees are only sparse dotted circles. Hand-pulled woodblock line print, xuan paper fibres, lots of empty paper. No people, no cars, no text, no numbers, no dimension labels, no seals, no signatures."
+ },
+ {
+  "id": "K_plant_lotus",
+  "refs": [
+   "work/v16k/real/lotus.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Close view of lotus: broad round leaves and one open pink lotus flower above the water, the flower in a soft pale rose (a little red ochre over paper). Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_plant_ginkgo",
+  "refs": [
+   "work/v16k/real/ginkgo_backlit.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Backlit fan-shaped ginkgo leaves on dark twigs against the low sun, leaves glowing gold and ochre, the sun as a soft disc of bare paper. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_plant_canopy",
+  "refs": [
+   "work/v16k/real/canopy_top.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Straight down onto a mixed forest canopy: crowns of many species as carved clumps in mineral green, ochre and a few red-ochre autumn crowns. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_plant_redleaf_snow",
+  "refs": [
+   "work/v16k/real/xy04.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Close view of a twig of small red-brown leaves holding fresh snow, the background a soft dark green wash, a few falling snowflakes as paper dots. Light: soft winter daylight. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_plant_blossom_snow",
+  "refs": [
+   "work/v16k/real/xy43.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Close view of wintersweet branches with pale yellow blossoms under fresh snow, the snow as bare paper with fine carved edges. Light: soft winter daylight. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_island_summer",
+  "refs": [
+   "work/v16k/lay/topdown479/woodblock.png",
+   "work/v16k/real/topdown479.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Straight top-down view of the lake, the round wooded island on the right and the zigzag stone footbridge; summer: deep green trees, the water flat mineral green-blue with fine carved ripples. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_motto_stone",
+  "refs": [
+   "work/v16k/real/motto.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. A long low natural boulder standing on a lawn in front of dense trees. IMPORTANT: the front face of the boulder is smooth and completely BLANK, with no characters, no carving and no marks at all (text is added later). Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_bamboo_up",
+  "refs": [
+   "work/v16k/real/bamboo.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the real photograph of this place; it fixes the exact composition.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Looking straight up a bamboo grove: tall culms with their nodes converging toward the bright sky, fine leaves at the top; NO motion streaks, crisp carved culms in mineral green and ochre, the sky as paper. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_tianmu_colour",
+  "aspect": "16:9",
+  "refs": [
+   "codex/out/T1_tianmu_ink.png",
+   "work/v16t/T1/tianmu_clouds_169.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "the ink-only print of the Tianmu cloud sea; it fixes the exact composition and every carved line.",
+   "the real photograph, for the real colours of the forest and the mountains.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "prompt": "Make one image: Image 1 printed again with the colour blocks added, as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Keep every line, ridge, cloud edge and the forest of Image 1 exactly where it is; only add colour: mineral green and blue on the forest and the ranges, the cloud sea left as paper with a faint warm wash. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ }
+]

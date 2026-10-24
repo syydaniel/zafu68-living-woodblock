@@ -1,0 +1,44 @@
+[
+ {
+  "id": "K_ai4_library_high_last",
+  "refs": [
+   "work/v16k/lay/dive3597/woodblock.png",
+   "work/v16k/real/dive3597.png",
+   "work/v16k/K_library_multiview.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "the model sheet of this library in the film's print style (structure reference).",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Straight top-down view of the ring-shaped library, its round courtyard and stepped plaza, the curving roads, lawns and dense trees all around filling the frame. Image 3 (model sheet, bottom-left panel) shows how this exact building looks from above in this print style. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai5_library_mist_first",
+  "refs": [
+   "work/v16k/lay/lib_mist/woodblock.png",
+   "work/v16k/real/lib_mist.png",
+   "work/v16k/K_library_multiview.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "the model sheet of this library in the film's print style (structure reference).",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. Early morning: the library across the still lake with its full reflection, low mist lying on the water and along the far shore, red metasequoias on the left; leave the upper third of the frame as calm paper sky for vertical text. Light: soft early sun from the upper left. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ }
+]

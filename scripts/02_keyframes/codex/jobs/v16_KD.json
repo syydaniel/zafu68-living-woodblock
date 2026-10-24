@@ -1,0 +1,66 @@
+[
+ {
+  "id": "K_ai9_luming_snow_first",
+  "aspect": "16:9",
+  "refs": [
+   "codex/out/K_ai9_luming_autumn_last.png",
+   "work/v16k/real/xy356.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "labels": [
+   "the autumn print of this exact view; it fixes the composition: the road, the bridge, the island, the shoreline must not move by a single pixel.",
+   "a real photograph of the same lake in snow, only for how snow lies on it.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition."
+  ],
+  "prompt": "Make one image: Image 1 printed again as WINTER after fresh snow, same print style. Registration is the priority: keep every outline of Image 1 exactly in place (road, zigzag bridge, island, shoreline, buildings, tree positions); do not crop, zoom or re-compose. Snow is bare white paper on the road, the bridge, the roofs and the ground; trees are bare dark ink branches dusted with snow; the lake is dark ink-blue and still, with a few thin floes. Soft grey winter daylight. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai10_clouds_ink_last",
+  "aspect": "16:9",
+  "refs": [
+   "codex/out/K_ai10_campus_aerial_first.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png"
+  ],
+  "labels": [
+   "the campus print the camera rises from (same style, same light).",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition."
+  ],
+  "prompt": "Make one image in exactly the print style of Image 1: the camera has risen high above the campus into the sky at golden hour. A great bank of golden clouds fills the upper two thirds, lit from the upper left; toward the frame edges the clouds turn from printed colour into loose pine-soot ink wash on xuan paper, like a woodblock dissolving into an ink painting; at the bottom only a few pale ink strokes of distant mountains remain, the campus far below and almost gone. No sun disc, no people, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai6_path_first_seedling",
+  "aspect": "16:9",
+  "refs": [
+   "codex/out/K_ai6_path_first.png",
+   "codex/out/K_ai3_canopy_last.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png"
+  ],
+  "labels": [
+   "the print of the tree-lined road; keep everything in it exactly where it is.",
+   "the film's maple print: how the maple leaves and the winged samaras are drawn.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition."
+  ],
+  "prompt": "Make one image: Image 1 with ONE new element in the foreground, same print style: at the lower left, very close to a camera that sits on the ground, a young maple seedling has just come up from the leaf litter, two narrow seed leaves and its first pair of small five-lobed true leaves, backlit gold; beside it lies the split husk of the winged samara it grew from. The seedling is sharp and large (about a third of the frame height); the road and the trees behind stay exactly as in Image 1, slightly softer. No people, no cars, no text, no seals, no signatures."
+ },
+ {
+  "id": "K_ai7_ginkgo_first",
+  "refs": [
+   "work/v16k/lay/ai7_close_layout/woodblock.png",
+   "work/v16k/real/ai7_close_layout.png",
+   "libtv_jobs/refs/K_ai2_library_first_clean_1280x720.png",
+   "codex/out/T1_lawn_golden.png",
+   "codex/out/T1_swans.png"
+  ],
+  "labels": [
+   "a rough woodblock layout made by code from the real photo (Image 2); it fixes the exact composition and every outline.",
+   "the real photograph of this place, only to understand what each shape is.",
+   "style anchor 1 (the film's woodblock print style: carving, palette, paper); do not copy its content or composition.",
+   "style anchor 2 (same print style, golden side-backlight); do not copy its content or composition.",
+   "style anchor 3 (same print style); do not copy its content or composition."
+  ],
+  "aspect": "16:9",
+  "prompt": "Make one image: Image 1 finished as a refined full-colour Jiangnan water-print woodblock print (江南水印木刻) in exactly the same print style, palette and paper as the style anchors: hand-pulled print, carved ink outlines, flat printed colour blocks with slight misregistration, faint wood grain in flat areas, xuan paper fibres, no 3D shading, no glossy highlights, no photographic detail, the sky left mostly as warm paper with a soft printed wash. Registration is the priority: keep Image 1's exact canvas and framing; every building, ridge, shoreline, road, bridge and tree mass stays at the same position and size; do not crop, zoom, extend, tilt or re-compose; do not add or remove buildings. A drone skimming just above the crowns of the golden ginkgo avenue: the gold crowns fill the frame as carved clumps, a thin strip of the avenue road between them, a few campus roofs at the edge; same palette and light as the style anchors. Light: late golden afternoon, low sun outside the frame at the upper left, warm side-backlight, soft shadows falling to the lower right. Remove every person, car, bicycle, sign board, lamp post and banner. No people, no cars, no text, no seals, no signatures."
+ }
+]
